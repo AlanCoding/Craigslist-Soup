@@ -1,2 +1,3 @@
-# Craigslist-Soup
-Scraper for craigslist with beautiful soup, looking to index prices and attributes
+==Craigslist scraper==
+
+This program will gather item data like price for listings on craigslist.
